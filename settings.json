@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "24horas.aternos.me",
+    "ip": "boxfish.aternos.host",
     "port": 58913,
     "version": "1.21.11"
   },
