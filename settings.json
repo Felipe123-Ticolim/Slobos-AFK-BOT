@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sou um bot afk que vou deixar esse servidor ligado o dia todo!",
+        "Sou um bot afk que vou deixar esse servidor ligado o dia todo!!!",
+        "Sou um bot afk que vou deixar esse servidor ligado o dia todo!!"
       ]
     },
     "chat-log": true,
