@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Bot24horas",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "T4TD.aternos.me",
